@@ -22,7 +22,8 @@ git@github.com:timotoots/flopper_audioplayer.git
 
 * Install Arduino ESP32 as ESP-IDF component
 https://github.com/espressif/arduino-esp32/blob/master/docs/esp-idf_component.md
-
+compiles with commit d06fa8ee70dd2541aada77007fb08bedc941323e
+ 
 ## Install following Arduino libraries to "components/arduino/libraries"
 
 * for Wifi Configuration portal
